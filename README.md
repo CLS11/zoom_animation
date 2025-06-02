@@ -1,16 +1,21 @@
-# zoom_animation
+#  Zoom Animation in Flutter
 
-A new Flutter project.
+An interactive **Zoom Animation** project built with Flutter that demonstrates image scaling and transition effects. This project is a great example of how to implement fluid animations and gesture-based interactions for enhanced user experience in mobile UIs.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Smooth zoom-in and zoom-out animation  
+-  Tap-to-expand and shrink image behavior  
+-  Clean transition effects using Flutter’s animation controller  
+-  Simple, modular code for learning and reuse
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- AnimationController 
+- GestureDetector  
